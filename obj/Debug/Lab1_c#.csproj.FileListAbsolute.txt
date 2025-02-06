@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lab1_c#\obj\Debug\Lab1_c#.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab1_c#\obj\Debug\Lab1_c#.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab1_c#\bin\Debug\Lab1_c#.exe.config
+C:\Users\User\source\repos\Lab1_c#\bin\Debug\Lab1_c#.exe
+C:\Users\User\source\repos\Lab1_c#\bin\Debug\Lab1_c#.pdb
+C:\Users\User\source\repos\Lab1_c#\obj\Debug\Lab1_c#.exe
+C:\Users\User\source\repos\Lab1_c#\obj\Debug\Lab1_c#.pdb
