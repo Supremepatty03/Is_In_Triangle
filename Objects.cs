@@ -19,8 +19,6 @@ namespace Lab1_c_
                 this.y = y;
             }
 
-            public double GetX => this.x;
-            public double GetY => this.y;
 
             public double Distance(Point2D other)
             {

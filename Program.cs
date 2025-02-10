@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Lab1_c_;
-using static Lab1_c_.Objects;
 
 namespace Lab1_c_
 {
