@@ -11,20 +11,30 @@ namespace Lab1_c_
     {
         static void Main()
         {
-            Point2D A = new Point2D(0.001, 0.01);
-            Point2D B = new Point2D(3.01, 2.01);
-            Point2D C = new Point2D(3.01, 0.01);
-            Point2D Point = new Point2D(1, 0.01);
+            AdditionalInfo.Greetings();
+            while (true)
+            {
+                Point2D A = InputHandler.GetPoint("Введите координаты точки А");
+                Point2D B = InputHandler.GetPoint("Введите координаты точки В");
+                Point2D C = InputHandler.GetPoint("Введите координаты точки С");
+                Point2D Point = InputHandler.GetPoint("Введите координаты искомой точки");
 
-            TriangleCheker cheсker = new TriangleCheker();
+                TriangleCheker cheсker = new TriangleCheker();
 
-            Triangle triangle = new Triangle(A, B, C, cheсker);
+                Triangle triangle = new Triangle(A, B, C, cheсker);
 
-            bool IsInside = triangle.Contains(Point);
+                bool IsInside = triangle.Contains(Point);
 
-            Console.WriteLine($"Точка принадлежит треугольнику: {IsInside}");
+                Console.WriteLine($"Точка принадлежит треугольнику:{(IsInside ? " Да " : " Нет ")}\n");
+
+
+
+                if (!Functionality.Looping()) { break; }
+
+            }
+            AdditionalInfo.Farewell();
 
         }
     }
+
 }
-C: \Users\User\source\repos\Lab1_c#\

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Lab1_c#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{796F1EBE-517F-442A-B171-65869B02DB71}|Lab1_c#.csproj|C:\\Users\\User\\source\\repos\\Lab1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796F1EBE-517F-442A-B171-65869B02DB71}|Lab1_c#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{796F1EBE-517F-442A-B171-65869B02DB71}|Lab1_c#.csproj|c:\\users\\user\\source\\repos\\lab1_c#\\filefunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796F1EBE-517F-442A-B171-65869B02DB71}|Lab1_c#.csproj|solutionrelative:filefunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{796F1EBE-517F-442A-B171-65869B02DB71}|Lab1_c#.csproj|c:\\users\\user\\source\\repos\\lab1_c#\\objects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{796F1EBE-517F-442A-B171-65869B02DB71}|Lab1_c#.csproj|C:\\Users\\User\\source\\repos\\Lab1_c#\\objects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{796F1EBE-517F-442A-B171-65869B02DB71}|Lab1_c#.csproj|solutionrelative:objects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796F1EBE-517F-442A-B171-65869B02DB71}|Lab1_c#.csproj|C:\\Users\\User\\source\\repos\\Lab1_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796F1EBE-517F-442A-B171-65869B02DB71}|Lab1_c#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -34,29 +34,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileFunc.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab1_c#\\FileFunc.cs",
+              "RelativeDocumentMoniker": "FileFunc.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab1_c#\\FileFunc.cs",
+              "RelativeToolTip": "FileFunc.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwEwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:16:03.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab1_c#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab1_c#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:30:06.03Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Objects.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab1_c#\\Objects.cs",
               "RelativeDocumentMoniker": "Objects.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab1_c#\\Objects.cs",
-              "RelativeToolTip": "Objects.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAmwEsAAABMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab1_c#\\Objects.cs*",
+              "RelativeToolTip": "Objects.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T13:34:16.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab1_c#\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab1_c#\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T11:30:06.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T13:34:16.273Z"
             }
           ]
         }
